@@ -1,4 +1,8 @@
 {
-  "status": "pending",
-  "note": "No audit decision has been recorded yet."
+  "run_name": "terse-v2-7b",
+  "run_id": "8c8gy3u6",
+  "mean_reply_tokens": 217.6285,
+  "budget_threshold_tokens": 240.0,
+  "gate_status": "within_budget",
+  "decision": "approved"
 }
